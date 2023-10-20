@@ -35,13 +35,12 @@ img{
 
 
 .header{
-    background-image: linear-gradient(180deg, rgba(0,0,0,0.7567401960784313) 15%, rgba(0,0,0,0.1741071428571429) 63% , rgba(0,0,0,1.75) ), url(/resources/background.jpg); 
+    background-image: linear-gradient(180deg, rgba(0,0,0,0.7567401960784313) 15%, rgba(0,0,0,0.1741071428571429) 63% , rgba(0,0,0,1.75) ), url(./resources/background.jpg); 
     background-size:cover;
     background-repeat: no-repeat;
     background-position: top;
     height: 110vh;
     width: 100%;
-
     margin: 0 auto;
     
     
